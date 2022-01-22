@@ -1,5 +1,7 @@
 {
-"name": "Herbie Starbelly",
-"description": "Friendly OpenSea Creature that enjoys long swims in the ocean.",
-"image": "https://storage.googleapis.com/opensea-prod.appspot.com/creature/50.png"
+    "name":"Random Stone #01",
+    "description": "Just sitting there.",
+    "tokenID":1,
+    "image":"https://raw.githubusercontent.com/RndStoneArt/rndstoneart.github.io/main/rndstone_01.png",
+    "animation_url":"https://rndstoneart.github.io"
 }
